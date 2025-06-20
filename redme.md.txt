@@ -1,0 +1,12 @@
+Conciliador Bancário Automatizado:
+Script Python para processar extratos bancários, enriquecer dados com CNPJ e informações de bancos.
+
+Funcionalidades:
+- Processa arquivos CSV de extratos bancários
+- Consulta mock de CNPJs e bancos
+- Gera arquivos formatados para sistemas ERP
+
+Como usar:
+1. Coloque os arquivos CSV na pasta `entrada`
+2. Execute `conciliador.py`
+3. Os resultados estarão na pasta `saida`
