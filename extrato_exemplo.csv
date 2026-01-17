@@ -1,0 +1,10 @@
+Data,Descrição,CNPJ,Banco,Tipo,Valor (R$),Saldo (R$)
+2025-06-01,Transferência recebida de Soluções em Aço S.A.,01.234.567/0001-89,Banco do Brasil S.A.,Crédito,12500,12500
+2025-06-02,Pagamento a Imobiliária Morar Bem,11.222.333/0001-44,Itaú Unibanco S.A.,Débito,3200,9300
+2025-06-03,Transferência recebida de Tecnologia Avançada Ltda.,98.765.432/0001-10,Nu Pagamentos S.A. - Nubank,Crédito,7750,17050
+2025-06-04,Pagamento a Mercado do Bairro ME,55.444.333/0001-22,Caixa Econômica Federal,Débito,1580,15470
+2025-06-05,Transferência recebida de Imobiliária Morar Bem,11.222.333/0001-44,Banco Bradesco S.A.,Crédito,2300,17770
+2025-06-06,Pagamento a Soluções em Aço S.A.,01.234.567/0001-89,Banco do Brasil S.A.,Débito,4000,13770
+2025-06-07,Transferência recebida de Mercado do Bairro ME,55.444.333/0001-22,Nu Pagamentos S.A. - Nubank,Crédito,950,14720
+2025-06-08,Pagamento a Tecnologia Avançada Ltda.,98.765.432/0001-10,Banco Bradesco S.A.,Débito,2500,12220
+2025-06-09,Recebimento de aluguel - Imobiliária Morar Bem,11.222.333/0001-44,Itaú Unibanco S.A.,Crédito,3000,15220
